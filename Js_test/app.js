@@ -31,9 +31,9 @@ console.log("ff"*2)
 
 }
 console.log(num1)
-// console.log(num2) --> you cann't use value form let command on out scorp
+console.log(num2) //--> you cann't use value form let command on out scorp
 
 // you can input massage by prompt command
 // prompt("เฮ้ยๆๆๆๆ กรอกชื่อมาหน่อยซิ")
-// var name = prompt("เฮ้ยๆกรอกชื่อมาหน่อยซิ")
-// console.log(name)
+var name2 = prompt("เฮ้ยๆกรอกชื่อมาหน่อยซิ")
+console.log(name2)
