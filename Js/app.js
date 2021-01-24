@@ -36,4 +36,4 @@ console.log(num2) //--> you cann't use value form let command on out scorp
 // you can input massage by prompt command
 // prompt("เฮ้ยๆๆๆๆ กรอกชื่อมาหน่อยซิ")
 var name2 = prompt("เฮ้ยๆกรอกชื่อมาหน่อยซิ")
-console.log(name2)
+console.log(name2) 
