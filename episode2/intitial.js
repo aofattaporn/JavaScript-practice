@@ -49,7 +49,8 @@ console.log("propoty have :"+"1234567890".length); // length propoty
 // line 2";
 // console.log(str)
 
-console.log("-----------> string ");
+console.log("-----------> boolean ");
+// !    เป็นการแสดงต่าของ true or fals
 
 
 
