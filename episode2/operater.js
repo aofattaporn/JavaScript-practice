@@ -22,5 +22,23 @@ b = "foo" - 10;
 c = "10" - 10;
 console.log(a);
 console.log("\" foo \" - 10 :", b);
-console.log("\" 10 \" - 10 :", c);
+console.log("\" 10 \" - 10 :", c,"\n\n");
+
+console.log("===========String Operators==============");
+// ! == != === !== > < >= <= 
+console.log("operators === : เป็นการเปรียบเทียบทั้งค่าและชนิดข้อมูล ");
+console.log("operators !== : เป็นการเปรียบเทียบทั้งค่าและชนิดข้อมูล \n\n");
+
+console.log("===========Logocal Operators==============");
+// ! AND OR NOT (&& || !) 
+console.log("เปรียบเทียบ logic ต่างๆ เช่น AND OR NOT (&& || !) \n\n");
+
+
+console.log("===========Logocal Operators==============");
+
+console.log("===========Bitwise Operators==============");
+
+console.log("===========Bitwise Operators==============");
+
+
 
